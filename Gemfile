@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 # deploy용 잼 추가
 gem 'figaro'
 
+gem 'fog'
 
 # 회원 권한 기능
 gem 'cancancan', '~> 2.0'
